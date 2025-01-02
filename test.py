@@ -1,3 +1,4 @@
+#tugas UTS bagian1 
 # Matriks A
 A = [
     [11, 55, 54, 10],
@@ -28,7 +29,7 @@ print("Hasil perkalian matriks A x B:")
 for row in result:
     print(row)
 
-#bagian 2 soal 7
+#tugas UTS bagian2 
 # Definisi himpunan
 A = {37, 41, 50, 17, 22, 31, 5, 14, 10, 81, 77}
 B = {31, 12, 56, 17, 21, 3, 50, 15, 6, 41, 20}
@@ -61,7 +62,7 @@ print("Peluang P(A):", peluang_A)
 print("Peluang P(B):", peluang_B)
 
 
-#bagian 3
+#tugas UTS bagian3
 # Fungsi untuk bubble sort
 def bubble_sort(arr):
     n = len(arr)
